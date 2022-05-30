@@ -1,5 +1,5 @@
 # Tarika Gupta
-!(img/my_picture.jpg "My Picture")
+![](img/my_picture.jpg "My Picture")
 
 I'm Tarika. I'm a **second year** undergraduate at IIT Goa. I'm from **India**. I like *reading and listening to music*.
 ____________________________________________________________________________________________________________________________________________________________________
@@ -37,10 +37,7 @@ ________________________________________________________________________________
 ## HTML Scripting
 HTML is the standard markup language for Web pages.
 [here are some examples](https://www.w3schools.com/html/default.asp)
-here are some of the tags
--<a> The <a> tag defines a hyperlink, which is used to link from one page to another.
--<button> The <button> tag defines a clickable button.
--<br> The <br> tag inserts a single line break.
+
 
 
 
