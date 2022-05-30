@@ -37,6 +37,11 @@ ________________________________________________________________________________
 ## HTML Scripting
 HTML is the standard markup language for Web pages.
 [here are some examples](https://www.w3schools.com/html/default.asp)
+## Extracurriculars
+*Participated in all the three fests as the PR team.*
+[here is the link to Cultrang](https://www.instagram.com/cultrangiitgoa/?hl=en)
+[here is the link to Cepheus](https://www.instagram.com/cepheus_iitgoa/?hl=en)
+
 
 
 
