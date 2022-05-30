@@ -1,1 +1,0 @@
-# tarikacsg.github.io
