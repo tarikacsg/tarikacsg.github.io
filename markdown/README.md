@@ -1,5 +1,5 @@
 # Tarika Gupta
-![my picture](img/my_picture.jpg "My Picture")
+![my picture](tarikacsg.github.io/img/my_picture.jpg "My Picture")
 
 I'm Tarika. I'm a **second year** undergraduate at IIT Goa. I'm from **India**. I like *reading and listening to music*.
 ____________________________________________________________________________________________________________________________________________________________________
